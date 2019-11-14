@@ -4,3 +4,32 @@ body {
     background-image: linear-gradient(to bottom, #472b62 #bc4873);
 
 }
+
+@media (max-width: 399px) 
+{
+    .logo-col {
+        margin-top: 80% !important;
+    }
+    
+    .logo {
+        width: 22vh !important;
+    }
+    .text {
+        font-size: 3.75rem;
+    }
+   
+}
+
+@media (min-width: 400px) 
+{
+    .logo-col {
+        margin-top: 15%;
+    }
+    
+    .logo {
+        width: 30vh;
+    }
+    
+}
+
+
