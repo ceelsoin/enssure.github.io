@@ -1,8 +1,10 @@
 const ENV_DEV = true
 
+// import '../assets';
+
 if(ENV_DEV){
-    require('./css/bootstrap.min.css');
-    require('./css/styles.css');
+    require('../build/css/bootstrap.min.css');
+    require('../build/css/styles.css');
 }
 
 
