@@ -8,6 +8,10 @@ document.addEventListener('readystatechange', event => {
 
 (function(){
     emailjs.init("user_We81RgxANFr6lOQvkkgdi");
+
+    var d = new Date();
+    var n = d.getFullYear();
+    document.getElementById("year").innerHTML = n;
  })();
 
 
