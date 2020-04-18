@@ -15,7 +15,7 @@
 
 <body>
   <div class="topmenu-backdrop"></div>
-  <div class="jumbotron jumbotron-fluid jumbo-slide">
+  <div class="jumbotron jumbotron-fluid jumbo-slide" style="margin-bottom: 0px;">
     <div class="container navbar-container">
       <nav class="navbar navbar-expand-lg text-light">
         <a class="navbar-brand" href="./"></a>
@@ -178,13 +178,29 @@
         <h1 id="clientes" >CLIENTES E PARCEIROS</h1>
       </div>
     </div>
-    <div class="row">
+    <div class="row" style="margin-bottom:2%;">
       <div class="clientgrid">
         <div class="clientgrid-item">
           <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
-            src="assets/img/empresas/logo_microsoft.png" [alt]="Microsoft" title="Microsoft">
+            src="assets/img/empresas/btg-pactual.png" [alt]="Microsoft" title="Microsoft">
         </div>
         <div class="clientgrid-item">
+          <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
+            src="assets/img/empresas/prefeitura-mangaratiba.png" [alt]="Microsoft" title="Microsoft">
+        </div>
+        <div class="clientgrid-item">
+          <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
+            src="assets/img/empresas/prefeitura-nilopolis.png" [alt]="Microsoft" title="Microsoft">
+        </div>
+        <div class="clientgrid-item">
+          <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
+            src="assets/img/empresas/logo-oi.png" [alt]="Microsoft" title="Microsoft">
+        </div>
+        <div class="clientgrid-item">
+          <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
+            src="assets/img/empresas/active-sales.png" [alt]="Microsoft" title="Microsoft">
+        </div>
+        <!-- <div class="clientgrid-item">
           <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
             src="assets/img/empresas/logo_microsoft.png" [alt]="Microsoft" title="Microsoft">
         </div>
@@ -203,23 +219,7 @@
         <div class="clientgrid-item">
           <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
             src="assets/img/empresas/logo_microsoft.png" [alt]="Microsoft" title="Microsoft">
-        </div>
-        <div class="clientgrid-item">
-          <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
-            src="assets/img/empresas/logo_microsoft.png" [alt]="Microsoft" title="Microsoft">
-        </div>
-        <div class="clientgrid-item">
-          <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
-            src="assets/img/empresas/logo_microsoft.png" [alt]="Microsoft" title="Microsoft">
-        </div>
-        <div class="clientgrid-item">
-          <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
-            src="assets/img/empresas/logo_microsoft.png" [alt]="Microsoft" title="Microsoft">
-        </div>
-        <div class="clientgrid-item">
-          <img class="clientgrid-logo aos-init aos-animate" data-aos="zoom-in"
-            src="assets/img/empresas/logo_microsoft.png" [alt]="Microsoft" title="Microsoft">
-        </div>
+        </div> -->
       </div>
     </div>
     <!-- end grid clients -->
@@ -235,22 +235,22 @@
         <div class="row">
           <div class="col-md-6">
             <label class="contactform-label">Nome</label>
-            <input type="text" required="" name="nome" class="contactform-input" autocomplete="off">
+            <input type="text" required="" id="nome" name="nome" class="contactform-input" autocomplete="off">
           </div>
           <div class="col-md-6">
             <label class="contactform-label">E-mail</label>
-            <input type="email" required="" name="email" class="contactform-input" autocomplete="off">
+            <input type="email" required="" id="email" name="email" class="contactform-input" autocomplete="off">
           </div>
         </div>
         <div class="row">
           <div class="col-md-12">
             <label class="contactform-label">Mensagem</label>
-            <textarea class="contactform-textarea" rows="6" name="mensagem" required=""></textarea>
+            <textarea class="contactform-textarea" id="mensagem" rows="6" name="mensagem" required=""></textarea>
           </div>
         </div>
         <div class="row" style="margin-top:2%;">
           <div class="col-12 text-right">
-            <input type="submit" value="Enviar" class="contactform-submit" id="contactform-submitbtn">
+            <input type="submit" value="Enviar" class="contactform-submit g-recaptcha" data-sitekey="6Lc15eoUAAAAALnQGMzIPtgOx_k6eyrlvBznzIaV" data-callback='onSubmit' onClick="sendMail()" id="contactform-submitbtn">
           </div>
         </div>
       </div>
@@ -318,6 +318,8 @@
       </div>
     </div>
   </div>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.4.1/dist/email.min.js"></script>
   <script src="./bundle.js"></script>
 </body>
 
