@@ -17,7 +17,6 @@ document.addEventListener('readystatechange', event => {
 
  function sendMail(){
     document.querySelector('.contactform-submit').value = "Enviando..."
-    grecaptcha.execute();
     var templateParams = {
         from_name: document.querySelector('#nome').value,
         emailname: document.querySelector('#email').value,
