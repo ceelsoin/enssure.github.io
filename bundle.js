@@ -26,7 +26,7 @@ document.addEventListener('readystatechange', event => {
      
     emailjs.send('gmail', 'template_GfPemw7o', templateParams)
     .then(function(response) {
-        document.querySelector('.contactform-submit').value = "Mensagem enviada!"
+        document.querySelector('.contactform-submit').value = "Enviado!"
         console.log('SUCCESS!', response.status, response.text);
     }, function(error) {
         document.querySelector('.contactform-submit').value = "Falha ao enviar"
