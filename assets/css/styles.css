@@ -397,6 +397,17 @@ h5 {
     margin-top: 3vh;
 } 
 
+.partner-logo{
+    width: 70%;
+    margin-top: 2em;
+}
+
+/* .partner-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
+
 @media screen and (min-width: 992px){
     .topic-subtitle{
         text-align: left;
