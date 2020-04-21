@@ -3,28 +3,29 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">    
-<title>{{ page.title }} | {{site.name}}</title>
-{% seo %}
+<link rel="icon" href="/blog/assets/images/favicon.png">    
+<title>About | Blog da Enssure</title>
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>About | Blog da Enssure</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="About" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Blog sobre tecnologia e contribuição para a transformação digital de empresas de todos os tamanhos." />
+<meta property="og:description" content="Blog sobre tecnologia e contribuição para a transformação digital de empresas de todos os tamanhos." />
+<meta property="og:site_name" content="Blog da Enssure" />
+<script type="application/ld+json">
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/blog/assets/images/logo.png"}},"url":"/blog/about.html","headline":"About","description":"Blog sobre tecnologia e contribuição para a transformação digital de empresas de todos os tamanhos.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
-<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+<link href="/blog/assets/css/theme.css" rel="stylesheet">
+<link href="/blog/assets/css/custom.css" rel="stylesheet">
     
-{{site.sharethis}}
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>
     
-{% if jekyll.environment == 'production' %}    
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', '{{site.google_analytics}}', 'auto');
-  ga('send', 'pageview');
-</script>
-{% endif %}  
+  
     
 
     
@@ -32,8 +33,8 @@
     
 
     
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{ layout }}">
+
+<body class="layout-page">
 
     
 <!-- Begin Menu Navigation
@@ -45,8 +46,8 @@
     <div class="container">
 
         <!-- Begin Logo -->
-        <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/{{ site.logo }}" style="height: 35px;" alt="{{ site.name }}">
+        <a class="navbar-brand" href="/blog/">
+        <img src="/blog/assets/images/logo.png" style="height: 35px;" alt="Blog da Enssure">
         </a>
         <!-- End Logo -->
 
@@ -57,20 +58,18 @@
             <ul class="navbar-nav ml-auto">
                 
                 <li class="nav-item">                
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Início</a>
+                <a class="nav-link" href="/blog/index.html">Início</a>
                 </li>
 
                 <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Postagens</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown01">
-                        {% for category in page.categories %}
-                         <a class="dropdown-item" href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
-                        {% endfor %}
+                        
                     </div>
                 </li> -->
                 
                 <li class="nav-item">                
-                    <a class="nav-link" href="{{ site.baseurl }}/about">Quem somos</a>
+                    <a class="nav-link" href="/blog/about">Quem somos</a>
                 </li> 
                 
                 <li class="nav-item">                
@@ -78,12 +77,12 @@
                 </li> 
 
                 <li class="nav-item">                
-                    <a class="nav-link" href="{{ site.baseurl }}/contact">Trabalhe conosco</a>
+                    <a class="nav-link" href="/blog/contact">Trabalhe conosco</a>
                 </li> 
                 
                 
                 <li class="nav-item">                
-                    <a class="nav-link highlight" href="{{ site.baseurl }}/contact">Contato</a>
+                    <a class="nav-link highlight" href="/blog/contact">Contato</a>
                 </li> 
                 
             </ul>
@@ -106,9 +105,9 @@
     ================================================== -->
 
     <div class="mainheading" style="display:none;">
-        <h1 class="sitetitle">{{ site.name }}</h1>
+        <h1 class="sitetitle">Blog da Enssure</h1>
         <p class="lead">
-             {{ site.description }}
+             Blog sobre tecnologia e contribuição para a transformação digital de empresas de todos os tamanhos.
         </p>
     </div>
 
@@ -116,7 +115,56 @@
     <!-- Content
     ================================================== --> 
     <div class="main-content">
-        {{ content }}
+        <section>
+    <div class="section-title">
+        <h2><span>About</span></h2>
+    </div>
+    
+    <div class="article-post">
+    <p>This website is built with Jekyll and “Affiliates” (a Jekyll Template designed &amp; developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.</p>
+
+<p><strong>License &amp; Download</strong></p>
+
+<p>“Affiliates” for Jekyll is designed and developed by WowThemes.net and it is <em>free</em> for personal use.</p>
+
+<p><a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a></p>
+
+<p><img src="/blog/assets/images/theme1.jpg" alt="jekyll template mediumish" /></p>
+
+<p><img src="/blog/assets/images/theme2.jpg" alt="jekyll template mediumish" /></p>
+
+<p><img src="/blog/assets/images/theme3.jpg" alt="jekyll template mediumish" /></p>
+
+<p><img src="/blog/assets/images/theme4.jpg" alt="jekyll template mediumish" /></p>
+
+
+    </div>
+    
+    
+    
+    <div id="comments" class="row mb-5">
+        <div class="col-md-8">              
+            <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'http-enssure-com-br-blog'; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+                
+        </div>
+    </div>
+    
+    
+    
+</section>
     </div>
 
     </div><!-- /.container --> 
@@ -131,7 +179,34 @@
                 <div class="col-md-8">
                     <h3>Faça parte da revolução digital e descubra com a Enssure como sua empresa pode acelerar processos com tecnologia.</h3>
                     <p>Inscreva-se em <span>nossa newsletter semanal e</span> receba conteúdos gratuitos para agilizar processos com tecnologia.</p>
-                        {% include newsletter.html %}
+                        <!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mce-EMAIL{
+		padding: 15px 1% 15px 1% !important;
+	}
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup" style="background-color: unset;padding:unset;">
+<form action="https://enssure.us4.list-manage.com/subscribe/post?u=681b9797a75aeffb641613a62&amp;id=0792a45135" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="background-color: unset;padding:unset;">
+    <div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+	<input type="email" value="" placeholder="Insira seu e-mail" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_681b9797a75aeffb641613a62_0792a45135" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Inscreva-se!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary btn-lg" style="margin:unset;"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+
                     <!-- <a class="btn btn-primary btn-lg" href="#">Este é meu melhor e-mail !</a> -->
                 </div>
                 <div class="col-md-4 text-right footersocial">
@@ -153,8 +228,8 @@
             <div class="row">
                 <div class="col-sm-3">
                 <div class="footer-widget">
-                <a href="{{site.baseurl}}/contact">
-                <img src="{{ site.baseurl }}/assets/images/logo-footer.png">
+                <a href="/blog/contact">
+                <img src="/blog/assets/images/logo-footer.png">
                 </a>
                 </div>
                 </div>
@@ -194,7 +269,7 @@
 
             <div class="copyright">
                 <p class="pull-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}.
+                Copyright © 2020 Blog da Enssure.
                 </p>
                 <p class="pull-right">
                 <!-- <a target="_blank" href="https://www.wowthemes.net/free-jekyll-template-affiliates/">"Affiliates Theme"</a> - Design & Code by WowThemes.net -->
@@ -214,17 +289,17 @@
 <!-- JavaScript
 ================================================== -->
     
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="/blog/assets/js/jquery.min.js"></script>
     
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
     
-<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+<script src="/blog/assets/js/ie10-viewport-bug-workaround.js"></script>
     
-<script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
+<script type='text/javascript' src='/blog/assets/js/masonry.pkgd.min.js'></script>
     
-<script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
+<script src="/blog/assets/js/theme.js"></script>    
     
 </body>
     
