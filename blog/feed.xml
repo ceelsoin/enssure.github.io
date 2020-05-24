@@ -3,18 +3,15 @@
   <channel>
     <title>Blog da Enssure</title>
     <description>Blog sobre tecnologia e contribuição para a transformação digital de empresas de todos os tamanhos.</description>
-    <link>https://enssure.com.br/blog/</link>
-    <atom:link href="https://enssure.com.br/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 May 2020 23:39:27 -0300</pubDate>
-    <lastBuildDate>Sat, 23 May 2020 23:39:27 -0300</lastBuildDate>
+    <link>/blog/</link>
+    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 24 May 2020 00:13:53 -0300</pubDate>
+    <lastBuildDate>Sun, 24 May 2020 00:13:53 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Quais as Vantagens do OutSourcing de TI ?</title>
-        <description>&lt;h1 id=&quot;quais-as-vantagens-do-outsourcing-de-ti-&quot;&gt;Quais as Vantagens do OutSourcing de TI ?&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://enssure.com.br/assets/img/consult.png&quot; alt=&quot;outsourcing de TI&quot; title=&quot;OutSourcing de TI&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Atualmente empresas de diversos segmentos têm aderido à flexibilidade em seu modelo de trabalho. Seja isso uma reação à crise econômica dos últimos anos ou um reflexo dos avanços tecnológicos. O fato é que contar com colaboradores que trabalham de modo flexível tem se consolidado no mercado brasileiro. Em relação a TI isso não é diferente, principalmente para PMEs (pequenas e médias empresas). Optar por um serviço de outsourcing de TI, termo também conhecido como terceirização da TI, pode ser muito mais vantajoso do que ter um departamento inteiro dedicado a isso. Neste artigo listamos algumas vantagens do outsourcing. Confira:&lt;/p&gt;
+        <title>Quais as vantagens do OutSourcing de TI?</title>
+        <description>&lt;p&gt;Atualmente empresas de diversos segmentos têm aderido à flexibilidade em seu modelo de trabalho. Seja isso uma reação à crise econômica dos últimos anos ou um reflexo dos avanços tecnológicos. O fato é que contar com colaboradores que trabalham de modo flexível tem se consolidado no mercado brasileiro. Em relação a TI isso não é diferente, principalmente para PMEs (pequenas e médias empresas). Optar por um serviço de outsourcing de TI, termo também conhecido como terceirização da TI, pode ser muito mais vantajoso do que ter um departamento inteiro dedicado a isso. Neste artigo listamos algumas vantagens do outsourcing. Confira:&lt;/p&gt;
 
 &lt;h2 id=&quot;economia-e-demanda&quot;&gt;&lt;strong&gt;Economia e demanda&lt;/strong&gt;&lt;/h2&gt;
 
@@ -36,11 +33,11 @@
 
 &lt;h3 id=&quot;deseja-ter-sua-ti-suportada-por-especialistas&quot;&gt;Deseja ter sua TI suportada por especialistas?&lt;/h3&gt;
 
-&lt;p&gt;Conheça a consultoria da Enssure e veja como podemos agregar nosso conhecimento técnico para levar o seu negócio a um novo patamar &lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;Saiba Mais&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Conheça a consultoria da Enssure e veja como podemos agregar nosso conhecimento técnico para levar o seu negócio a um novo patamar. &lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;Saiba mais&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 May 2020 00:00:00 -0300</pubDate>
-        <link>https://enssure.com.br/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</link>
-        <guid isPermaLink="true">https://enssure.com.br/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</guid>
+        <link>/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</link>
+        <guid isPermaLink="true">/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</guid>
         
         
         <category>OutSourcing</category>
