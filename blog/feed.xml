@@ -3,37 +3,49 @@
   <channel>
     <title>Blog da Enssure</title>
     <description>Blog sobre tecnologia e contribuição para a transformação digital de empresas de todos os tamanhos.</description>
-    <link>/blog/</link>
-    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Apr 2020 12:42:29 -0300</pubDate>
-    <lastBuildDate>Tue, 21 Apr 2020 12:42:29 -0300</lastBuildDate>
+    <link>https://enssure.com.br/blog/</link>
+    <atom:link href="https://enssure.com.br/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 23 May 2020 23:39:27 -0300</pubDate>
+    <lastBuildDate>Sat, 23 May 2020 23:39:27 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Markdown Example</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated. Something.&lt;/p&gt;
+        <title>Quais as Vantagens do OutSourcing de TI ?</title>
+        <description>&lt;h1 id=&quot;quais-as-vantagens-do-outsourcing-de-ti-&quot;&gt;Quais as Vantagens do OutSourcing de TI ?&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://enssure.com.br/assets/img/consult.png&quot; alt=&quot;outsourcing de TI&quot; title=&quot;OutSourcing de TI&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Atualmente empresas de diversos segmentos têm aderido à flexibilidade em seu modelo de trabalho. Seja isso uma reação à crise econômica dos últimos anos ou um reflexo dos avanços tecnológicos. O fato é que contar com colaboradores que trabalham de modo flexível tem se consolidado no mercado brasileiro. Em relação a TI isso não é diferente, principalmente para PMEs (pequenas e médias empresas). Optar por um serviço de outsourcing de TI, termo também conhecido como terceirização da TI, pode ser muito mais vantajoso do que ter um departamento inteiro dedicado a isso. Neste artigo listamos algumas vantagens do outsourcing. Confira:&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h2 id=&quot;economia-e-demanda&quot;&gt;&lt;strong&gt;Economia e demanda&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Uma das principais vantagens no uso de &lt;strong&gt;&lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;outsourcing de TI&lt;/a&gt;&lt;/strong&gt; está na economia. Manter um departamento inteiro dedicado à tecnologia da informação pode custar muito caro. Pois requer custos de pessoal, equipamentos, mão-de-obra, treinamento, manutenção, entre outros. Em contrapartida, com o serviço de outsourcing as empresas podem economizar significativamente. Já que nesse modelo de colaboração é possível contratar serviços de acordo com a necessidade, pagando por uma estrutura completa para atender sua TI.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;acesso&quot;&gt;&lt;strong&gt;Acesso&lt;/strong&gt;&lt;/h2&gt;
 
+&lt;p&gt;Contar com o outsourcing de TI também é contar com acesso à tecnologia de ponta. As empresas de outsourcing acompanham diariamente as tendências em tecnologia. De modo a oferecer para o seu negócio os serviços mais avançados, de acordo com suas necessidades. Isso reflete diretamente na capacidade de crescimento de sua empresa já que além de crescer é preciso acompanhar as tendências do mercado.&lt;/p&gt;
+
+&lt;h2 id=&quot;segurança&quot;&gt;&lt;strong&gt;Segurança&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mesmo com os avanços diários em tecnologia, manter dados e informações em segurança na rede não é tarefa simples. Mas contar com um outsourcing de TI especializado pode fazer toda a diferença em sua estrutura. Uma vez que estes profissionais saberão indicar qual é o melhor modelo para manter as informações de sua empresa longe de vírus e invasões. Além de indicarem o melhor caminho para recuperação de arquivos em casos de perda.&lt;/p&gt;
+
+&lt;h2 id=&quot;produtividade&quot;&gt;&lt;strong&gt;Produtividade&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;O outsourcing de TI além de impulsionar o crescimento de seu negócio, reflete também no aumento de produtividade de sua empresa. O período que seria gasto gerindo uma equipe de TI pode ser utilizado na criação de novos projetos, acompanhamento de processos bem como demais atividades internas de seu negócio.&lt;/p&gt;
+
+&lt;p&gt;Aqui na Enssure Soluções em Tecnologia possuímos profissionais altamente capacitados com foco em entender as necessidades do negócio e buscar as melhores soluções. Um time engajado em fazer parte da rotina da sua equipe para entregar os resultados que a sua empresa precisa. Acesse &lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;https://enssure.com.br&lt;/a&gt; e saiba mais.&lt;/p&gt;
+
+&lt;h3 id=&quot;deseja-ter-sua-ti-suportada-por-especialistas&quot;&gt;Deseja ter sua TI suportada por especialistas?&lt;/h3&gt;
+
+&lt;p&gt;Conheça a consultoria da Enssure e veja como podemos agregar nosso conhecimento técnico para levar o seu negócio a um novo patamar &lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;Saiba Mais&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Jan 2018 00:00:00 -0300</pubDate>
-        <link>/blog/jekyll/tutorial/2018/01/11/markup-example.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/01/11/markup-example.html</guid>
+        <pubDate>Sat, 23 May 2020 00:00:00 -0300</pubDate>
+        <link>https://enssure.com.br/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</link>
+        <guid isPermaLink="true">https://enssure.com.br/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</guid>
         
         
-        <category>Jekyll</category>
+        <category>OutSourcing</category>
         
-        <category>tutorial</category>
+        <category>Terceirização</category>
         
       </item>
     

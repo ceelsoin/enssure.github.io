@@ -1,1 +1,1 @@
-Sitemap: /blog/sitemap.xml
+Sitemap: /https://enssure.com.br/blog/sitemap.xml
