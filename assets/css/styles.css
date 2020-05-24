@@ -134,6 +134,7 @@ img {
         position: absolute;
         top: -25vh;
         color: #fff;
+        width: 100%;
     }
 
     .consulting{
@@ -141,6 +142,15 @@ img {
         top: -21vh;
         color: #fff;
         width: 100%;
+    }
+
+
+    .outsourcing{
+        position: absolute;
+        top: -21vh;
+        color: #fff;
+        width: 100%;
+        text-shadow: 1px 1px #000000;
     }
 
     .devops{
