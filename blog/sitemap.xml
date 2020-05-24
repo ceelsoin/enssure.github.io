@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</loc>
+<loc>/blog/hospedagem/cloud/reduca%C3%A7%C3%A3o-de-custos/desempenho/2020/05/23/migrar-para-cloud.html</loc>
+<lastmod>2020-05-23T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti-copy.html</loc>
+<lastmod>2020-05-23T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>/blog/outsourcing/terceiriza%C3%A7%C3%A3o/reduca%C3%A7%C3%A3o-de-custos/desempenho/2020/05/23/redu%C3%A7%C3%A3o-de-custos-de-ti.html</loc>
 <lastmod>2020-05-23T00:00:00-03:00</lastmod>
 </url>
 <url>
@@ -9,6 +17,18 @@
 </url>
 <url>
 <loc>/blog/</loc>
+</url>
+<url>
+<loc>/blog/category/hospedagem/</loc>
+</url>
+<url>
+<loc>/blog/category/cloud/</loc>
+</url>
+<url>
+<loc>/blog/category/reduca%C3%A7%C3%A3o-de-custos/</loc>
+</url>
+<url>
+<loc>/blog/category/desempenho/</loc>
 </url>
 <url>
 <loc>/blog/category/outsourcing/</loc>

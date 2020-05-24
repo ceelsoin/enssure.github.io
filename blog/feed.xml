@@ -5,9 +5,94 @@
     <description>Blog sobre tecnologia e contribuição para a transformação digital de empresas de todos os tamanhos.</description>
     <link>/blog/</link>
     <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 May 2020 00:13:53 -0300</pubDate>
-    <lastBuildDate>Sun, 24 May 2020 00:13:53 -0300</lastBuildDate>
+    <pubDate>Sun, 24 May 2020 19:34:02 -0300</pubDate>
+    <lastBuildDate>Sun, 24 May 2020 19:34:02 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Quais estratégia podem ajudar na redução de custos de TI?</title>
+        <description>&lt;p&gt;A &lt;strong&gt;&lt;a href=&quot;https://cio.com.br/mercado-de-ti-deve-crescer-58-em-2020-diz-idc-brasil/&quot;&gt;IDC Brasil&lt;/a&gt;&lt;/strong&gt; prevê que até 2021 os investimentos em TI (Tecnologia da Informação) aumentarão 10%. Hardware, software e serviços são os principais focos. Ainda segundo o relatório recente da consultoria, na América Latina, hardware será responsável por 60% dos investimentos, serviços de TI por 22% e o software por 18%.&lt;/p&gt;
+
+&lt;p&gt;Obviamente esses investimentos visam aumentar competitividade, eficiência e produtividade. Mas outro ponto também deve estar “na mira” dos líderes e ser impulsionado por parte desses investimentos: redução de custos de TI.&lt;/p&gt;
+
+&lt;h2 id=&quot;redução-de-custos-de-ti-o-que-fazer&quot;&gt;&lt;strong&gt;Redução de custos de TI: o que fazer?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Por mais desafiador que possa parecer, existem algumas ações que já estão na pauta do departamento de TI há algum tempo. Trata-se do uso de tecnologias, equipamentos e até de parceiros especializados para otimizar os processos e consequentemente possibilitar a redução de custos de TI. Confira abaixo algumas estratégias eficazes para isso.&lt;/p&gt;
+
+&lt;h3 id=&quot;migrar-a-infraestrutura-para-a-nuvem&quot;&gt;&lt;strong&gt;Migrar a infraestrutura para a nuvem&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Entre as tendências tecnológicas apontadas no relatório do IDC citado mais acima, cloud continua entre as prioridades. A nuvem pública deve alcançar investimentos de US$ 3,5 bilhões em 2020 e a nuvem privada deve movimentar US$ 1,3 bilhão.&lt;/p&gt;
+
+&lt;p&gt;Quando se fala em custos de TI, é impossível não lembrar imediatamente da infraestrutura necessária para &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;manter um data center&lt;/strong&gt;&lt;/a&gt; e todos os serviços que a empresa necessita. Servidores, ambiente próprio, cabeamento, recursos de monitoramento, entre outros. Com &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;cloud computing,&lt;/strong&gt;&lt;/a&gt; os custos com essa infraestrutura são do provedor, que foca nesse tipo de serviço, que oferece escalabilidade, segurança e robustez para os serviços prestados.&lt;/p&gt;
+
+&lt;p&gt;Além disso, &lt;strong&gt;&lt;a href=&quot;https://enssure.com.br/&quot;&gt;estar na nuvem&lt;/a&gt;&lt;/strong&gt; também ajuda na redução nos custos da TI ao passo que não serão necessários profissionais com skills para administrar essa infra internamente.&lt;/p&gt;
+
+&lt;p&gt;Outro ponto importante aqui são as opções de &lt;a href=&quot;https://enssure.com.br/&quot;&gt;armazenamento na nuvem&lt;/a&gt;. Nesse caso, o seu servidor de arquivos local é substituído pela nuvem, de forma totalmente gerenciável. Nessa configuração, você pode, por exemplo, utilizar o e-mail para enviar as mensagens e compartilhar o link dos arquivos que estão armazenados na nuvem, sem precisar enviá-los em anexo.&lt;/p&gt;
+
+&lt;h3 id=&quot;fazer-um-mapeamento-das-licenças-e-software-utilizados&quot;&gt;&lt;strong&gt;Fazer um mapeamento das licenças e software utilizados&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Você já se perguntou se todas as licenças de uso de software que estão ativas na sua empresa são mesmo necessárias e estão sendo utilizadas? No dia a dia é bastante comum que algumas soluções percam sua função, deixem de ser usadas, mas continuem na lista de software licenciados na companhia.&lt;/p&gt;
+
+&lt;p&gt;Por isso é importante de tempos em tempos realizar uma espécie de inventário de tudo que está ativo na empresa, em quais áreas de negócio são necessários, para que e até quando. Fazendo isso periodicamente, será possível identificar quais delas podem ser encerradas para ajudar na redução de custos de TI.&lt;/p&gt;
+
+&lt;h3 id=&quot;investir-em-equipamentos-modernos&quot;&gt;&lt;strong&gt;Investir em equipamentos modernos&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Lembre-se daquela frase “o barato sai caro”. Então, é importante que o departamento de TI não procure fazer economia comprando equipamentos mais em conta ou postergando atualizações de software. Isso pode custar mais do que se imagina.&lt;/p&gt;
+
+&lt;p&gt;Isso porque &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;equipamentos modernos&lt;/strong&gt;&lt;/a&gt; e software mais atuais trazem tecnologias que atendem com mais velocidade, qualidade e segurança as necessidades da empresa. Imagine um sistema que demora para processar um pedido, ou um servidor que trava constantemente. Além de consumir horas de &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;suporte técnico da TI&lt;/strong&gt;&lt;/a&gt;, ainda podem comprometer o desempenho de toda a operação da empresa.&lt;/p&gt;
+
+&lt;p&gt;Aqui, a nuvem também ajuda, pois provedores de credibilidade têm esse cuidado e oferecem seus serviços com equipamentos modernos e soluções de última geração.&lt;/p&gt;
+
+&lt;h3 id=&quot;dar-atenção-aos-processos-de-backup&quot;&gt;&lt;strong&gt;Dar atenção aos processos de backup&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Você está se perguntando qual a relação do backup com redução de custos de TI? Imagine o impacto em uma empresa se houver um problema em seu banco de dados que comprometa os dados das vendas dos últimos dias.&lt;/p&gt;
+
+&lt;p&gt;Se isso acontece, não há backup de um período adequado para restaurar os pedidos e encaminhar as ordens de produção ou despacho?&lt;/p&gt;
+
+&lt;p&gt;Problemas operacionais podem acontecer. Sem falar das ameaças virtuais que também são capazes de gerar problemas sérios no budget de uma empresa. Além é claro das paradas na operação como exemplificamos acima.&lt;/p&gt;
+
+&lt;p&gt;O departamento de TI deve portanto buscar &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;soluções para backup na nuvem&lt;/strong&gt;&lt;/a&gt; que tenham escalabilidade no volume de dados e compatibilidade com os mais diversos sistemas operacionais. Além disso, os tipos de backup podem ser diferentes e devem acontecer nos dias e horários que você definir, de acordo com a necessidade e criticidade do negócio.&lt;/p&gt;
+
+&lt;h3 id=&quot;terceirizar-os-serviços-de-ti&quot;&gt;&lt;strong&gt;Terceirizar os serviços de TI&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;E-mail travado, funcionamento inconstante da internet, lentidão no computador de um funcionário. Esses e outros tipos de problemas operacionais acabam “drenando” o tempo da equipe de TI.&lt;/p&gt;
+
+&lt;p&gt;Nesse cenário a &lt;a href=&quot;https://enssure.com.br/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html&quot;&gt;&lt;strong&gt;terceirização dos serviços de TI&lt;/strong&gt;&lt;/a&gt; pode ser uma alternativa muito eficiente, inclusive para redução de custos de TI, ao passo que você pode utilizar os profissionais do departamento para atuar em projetos mais estratégicos, estudar novas tecnologias e se aproximar cada vez mais das áreas de negócio da empresa.&lt;/p&gt;
+
+&lt;p&gt;Além disso, você não precisa buscar profissionais com as mais diversas competências necessárias para manter todos os serviços de TI em funcionamento.&lt;/p&gt;
+
+&lt;h3 id=&quot;criar-estratégias-para-potencializar-o-desempenho-da-equipe&quot;&gt;&lt;strong&gt;Criar estratégias para potencializar o desempenho da equipe&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Time mais motivado é mais produtivo e faz mais com menos. Então pensar em formas de promover motivação na equipe pode ser sim uma forma de redução de custos de TI. Se você, por exemplo, terceirizar os serviços de TI e alocar seus profissionais em um projeto com uma tecnologia nova, com inteligência artificial, por exemplo, será que não ficarão mais motivados?&lt;/p&gt;
+
+&lt;p&gt;Você pode também organizar os projetos do departamento e derivar planos de ação que envolvam todos os profissionais do time. Imagine um projeto para potencializar a &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;transformação digital na sua empresa?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Veja que os outros pontos citados no post servem bem para viabilizar estratégias que podem manter o time motivado e a todo vapor!&lt;/p&gt;
+
+&lt;h2 id=&quot;como-a-enssure-te-ajuda-na-redução-de-custos-de-ti&quot;&gt;&lt;strong&gt;Como a Enssure te ajuda na redução de custos de TI&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Se quiser conversar um pouco mais sobre estratégias para redução de custos de TI, conte com gente. Aqui na Enssure oferecemos serviços de &lt;strong&gt;terceirização de TI&lt;/strong&gt; com a qualidade e seriedade que sua empresa precisa.&lt;/p&gt;
+
+&lt;p&gt;Entre os diferenciais oferecidos pelos serviços terceirizados de TI da Enssure: equipe especialista, documentação do ambiente de TI, relatórios, planejamento anual de TI e monitoramento 24X7.  &lt;strong&gt;&lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;Entre em contato!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;deseja-ter-sua-ti-suportada-por-especialistas&quot;&gt;Deseja ter sua TI suportada por especialistas?&lt;/h3&gt;
+
+&lt;p&gt;Conheça a consultoria da Enssure e veja como podemos agregar nosso conhecimento técnico para levar o seu negócio a um novo patamar. &lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;Saiba mais&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2020 00:00:00 -0300</pubDate>
+        <link>/blog/outsourcing/terceiriza%C3%A7%C3%A3o/reduca%C3%A7%C3%A3o-de-custos/desempenho/2020/05/23/redu%C3%A7%C3%A3o-de-custos-de-ti.html</link>
+        <guid isPermaLink="true">/blog/outsourcing/terceiriza%C3%A7%C3%A3o/reduca%C3%A7%C3%A3o-de-custos/desempenho/2020/05/23/redu%C3%A7%C3%A3o-de-custos-de-ti.html</guid>
+        
+        
+        <category>OutSourcing</category>
+        
+        <category>Terceirização</category>
+        
+        <category>Reducação-de-Custos</category>
+        
+        <category>Desempenho</category>
+        
+      </item>
     
       <item>
         <title>Quais as vantagens do OutSourcing de TI?</title>
@@ -36,13 +121,108 @@
 &lt;p&gt;Conheça a consultoria da Enssure e veja como podemos agregar nosso conhecimento técnico para levar o seu negócio a um novo patamar. &lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;Saiba mais&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 May 2020 00:00:00 -0300</pubDate>
-        <link>/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</link>
-        <guid isPermaLink="true">/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti.html</guid>
+        <link>/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti-copy.html</link>
+        <guid isPermaLink="true">/blog/outsourcing/terceiriza%C3%A7%C3%A3o/2020/05/23/outsourcing-de-ti-copy.html</guid>
         
         
         <category>OutSourcing</category>
         
         <category>Terceirização</category>
+        
+      </item>
+    
+      <item>
+        <title>Migrar para cloud ou investir em equipamentos?</title>
+        <description>&lt;p&gt;Uma dúvida muito comum nas empresas é sobre as vantagens de &lt;strong&gt;migrar para &lt;em&gt;cloud&lt;/em&gt;&lt;/strong&gt; corporativa em comparação a investir em equipamentos.&lt;/p&gt;
+
+&lt;p&gt;A tecnologia na nuvem, tradução de &lt;em&gt;cloud&lt;/em&gt; para o português, cresceu muito nos últimos anos. Ela utiliza a conectividade da Internet para hospedar diversas informações, programas e recursos de uma organização.&lt;/p&gt;
+
+&lt;p&gt;Antigamente, era comum as empresas investirem em diversos equipamentos e servidores para armazenar seus dados e manter toda a parte tecnológica do negócio funcionando.&lt;/p&gt;
+
+&lt;p&gt;Hoje, investir em inovações tecnológicas como a &lt;em&gt;cloud&lt;/em&gt; traz uma série de benefícios e ajuda, inclusive, as empresas a &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;reduzir custos a curto e a longo prazo&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Confira nesse artigo por que &lt;strong&gt;migrar para &lt;em&gt;cloud&lt;/em&gt;&lt;/strong&gt; é a melhor solução para a sua companhia.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-cloud-computing&quot;&gt;&lt;strong&gt;O que é &lt;em&gt;Cloud Computing&lt;/em&gt;?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;O &lt;em&gt;cloud computing&lt;/em&gt;, também chamado de &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;computação em nuvem&lt;/strong&gt;&lt;/a&gt;, pode ser definido como a entrega dos recursos de computação, como dados e &lt;em&gt;software&lt;/em&gt;, como um serviço e não mais um produto.&lt;/p&gt;
+
+&lt;p&gt;Esses recursos são compartilhados por meio da  internet e o acesso pode ser feito de todos os lugares via qualquer dispositivo com conexão à &lt;em&gt;web&lt;/em&gt;.. O seu grande diferencial é que não é mais necessário usar um servidor local ou computador pessoal para trabalhar e utilizar esses serviços.&lt;/p&gt;
+
+&lt;h2 id=&quot;quais-são-os-benefícios-do-cloud-computing&quot;&gt;&lt;strong&gt;Quais são os benefícios do &lt;em&gt;Cloud Computing&lt;/em&gt;?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Migrar para &lt;em&gt;cloud&lt;/em&gt;&lt;/strong&gt; traz uma série de vantagens. Confira as principais:&lt;/p&gt;
+
+&lt;h3 id=&quot;redução-de-custos&quot;&gt;&lt;strong&gt;Redução de custos&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Esse é um dos grandes benefícios de adotar a computação em nuvem. Ao eliminar a necessidade de servidores e diversos equipamentos, as empresas economizam dinheiro que pode ser investido em outras áreas importantes para o negócio.&lt;/p&gt;
+
+&lt;h3 id=&quot;acesso-imediato-a-programas-e-informações&quot;&gt;&lt;strong&gt;Acesso imediato a programas e informações&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Graças à nuvem, é possível trabalhar de qualquer lugar sempre que necessário. Basta ter conexão à internet para acessar todos os dados e recursos da empresa.&lt;/p&gt;
+
+&lt;h3 id=&quot;segurança&quot;&gt;&lt;strong&gt;Segurança&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Os recursos de &lt;em&gt;cloud computing&lt;/em&gt; estão sempre sendo atualizados e utilizam as melhores formas de segurança contra ataques e furto de informações.&lt;/p&gt;
+
+&lt;h3 id=&quot;elasticidade&quot;&gt;&lt;strong&gt;Elasticidade&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Ao &lt;strong&gt;migrar para &lt;em&gt;cloud&lt;/em&gt;&lt;/strong&gt;, a empresa consegue aumentar ou diminuir seus recursos computacionais com mais facilidade e rapidez, sem a necessidade de adquirir novos equipamentos.&lt;/p&gt;
+
+&lt;h3 id=&quot;maior-produtividade&quot;&gt;&lt;strong&gt;Maior produtividade&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Acessar a nuvem, trocar informações e integrar os departamentos tornam-se muito mais eficientes com a computação em nuvem. Dessa forma, todas as áreas ganham tempo para focar em outras atividades e a empresa como um todo vê um aumento na produtividade.&lt;/p&gt;
+
+&lt;h2 id=&quot;migrar-para-cloud-x-investir-em-equipamentos&quot;&gt;&lt;strong&gt;Migrar para cloud X investir em equipamentos&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Muitas empresas ainda têm dúvidas quanto a &lt;strong&gt;migrar para &lt;em&gt;cloud&lt;/em&gt;&lt;/strong&gt; quando comparado com a compra de novos equipamentos.&lt;/p&gt;
+
+&lt;p&gt;Os recursos em nuvem representam uma grande mudança tecnológica e algumas pessoas ainda têm dificuldades para entender os seus benefícios no universo corporativo.&lt;/p&gt;
+
+&lt;p&gt;Um dos grandes benefícios é a redução de custos. &lt;strong&gt;Migrar para a &lt;em&gt;cloud&lt;/em&gt;&lt;/strong&gt; elimina a necessidade de comprar novos equipamentos de tempos em tempos, além dos gastos com a manutenção deles e com possíveis reparos que podem ser necessários.&lt;/p&gt;
+
+&lt;p&gt;A &lt;em&gt;cloud&lt;/em&gt; também acrescenta mobilidade aos negócios quando comparada à compra de equipamentos. Graças a ela, os colaboradores conseguem acessar os recursos da empresa de diferentes locais, basta ter acesso à Internet.&lt;/p&gt;
+
+&lt;p&gt;Em um mundo globalizado, isso se torna uma importante vantagem competitiva e traz mais rapidez aos negócios.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;segurança também merece destaque&lt;/strong&gt;&lt;/a&gt; quando o tema migrar para cloud entra em pauta. Equipamentos podem ser danificados com o tempo e sofrer com quedas de energia, por exemplo. Isso, além de reduzir a sua vida útil, também coloca em risco a segurança das suas informações e dos dados ali armazenados.&lt;/p&gt;
+
+&lt;p&gt;Quando falamos em computação na nuvem, os níveis de segurança estão sempre sendo aprimorados e esse é um dos grandes pilares da &lt;em&gt;cloud&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Soma-se a isso ainda a necessidade de reparo ou substituição de um equipamento, o que pode acontecer de repente, e todo o seu impacto no trabalho e na produtividade das equipes.&lt;/p&gt;
+
+&lt;p&gt;A escalabilidade é outro dos grandes diferenciais da computação em nuvem. Ela consiste na possibilidade de aumentar ou reduzir o uso da &lt;em&gt;cloud&lt;/em&gt;, de acordo com a demanda da organização em cada momento. Desta forma, se surge uma necessidade, não é preciso correr para comprar  novos equipamentos. Tudo é resolvido de uma forma mais barata e rápida.&lt;/p&gt;
+
+&lt;h2 id=&quot;cloud-o-parceiro-ideal-faz-diferença&quot;&gt;&lt;strong&gt;&lt;em&gt;Cloud&lt;/em&gt;: o parceiro ideal faz diferença&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Na hora de &lt;strong&gt;migrar para cloud&lt;/strong&gt;, um dos segredos é contratar uma boa empresa parceira para fornecer esse serviço e todo o suporte necessário.&lt;/p&gt;
+
+&lt;p&gt;Nós, da &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;Enssure Softwares&lt;/strong&gt;&lt;/a&gt;, contamos com uma &lt;a href=&quot;https://enssure.com.br/&quot;&gt;&lt;strong&gt;equipe especializada&lt;/strong&gt;&lt;/a&gt; e apta para fazer um diagnóstico do seu negócio e ajudar com a melhor solução.&lt;/p&gt;
+
+&lt;p&gt;Trabalhamos com serviços em nuvem como &lt;em&gt;backup&lt;/em&gt;, &lt;em&gt;disaster recovery&lt;/em&gt;, servidor de arquivos na nuvem, e-mail e aplicações na nuvem. Atendemos mais de 900 clientes corporativos com um nível de satisfação de 98% .&lt;/p&gt;
+
+&lt;p&gt;Auxiliamos sua empresa desde o mapeamento de como funciona hoje, avaliamos qual melhor formato de nuvem para a empresa e fazemos toda a homologação do projeto.&lt;/p&gt;
+
+&lt;p&gt;Entre as grandes vantagens de &lt;strong&gt;migrar para &lt;em&gt;cloud&lt;/em&gt;&lt;/strong&gt; com a Enssure estão escalabilidade, &lt;a href=&quot;https://enssure.com.br/&quot;&gt;suporte especialista&lt;/a&gt;, mobilidade, segurança, continuidade dos negócios e redução de custos.&lt;/p&gt;
+
+&lt;p&gt;Agora que você já conhece todas as vantagens de &lt;strong&gt;migrar para cloud&lt;/strong&gt;, conheça o &lt;a href=&quot;https://enssure.com.br/&quot;&gt;Enssure Cloud Computing e todos os serviços e benefícios&lt;/a&gt; que oferecemos para as empresas adotarem a nuvem.&lt;/p&gt;
+
+&lt;h3 id=&quot;deseja-ter-sua-ti-suportada-por-especialistas&quot;&gt;Deseja ter sua TI suportada por especialistas?&lt;/h3&gt;
+
+&lt;p&gt;Conheça a consultoria da Enssure e veja como podemos agregar nosso conhecimento técnico para levar o seu negócio a um novo patamar. &lt;a href=&quot;https://enssure.com.br/#contato&quot;&gt;Saiba mais&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 May 2020 00:00:00 -0300</pubDate>
+        <link>/blog/hospedagem/cloud/reduca%C3%A7%C3%A3o-de-custos/desempenho/2020/05/23/migrar-para-cloud.html</link>
+        <guid isPermaLink="true">/blog/hospedagem/cloud/reduca%C3%A7%C3%A3o-de-custos/desempenho/2020/05/23/migrar-para-cloud.html</guid>
+        
+        
+        <category>Hospedagem</category>
+        
+        <category>Cloud</category>
+        
+        <category>Reducação-de-Custos</category>
+        
+        <category>Desempenho</category>
         
       </item>
     
